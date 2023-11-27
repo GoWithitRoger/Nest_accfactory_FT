@@ -24,8 +24,8 @@ ENTRYPOINT ["node"]
 CMD ["/opt/Nest_accfactory/Nest_accfactory.js", "/opt/Nest_accfactory/conf/Nest_config.json"]
 
 # labels for the container
-LABEL org.opencontainers.image.title="Nest_accfactory"
+LABEL org.opencontainers.image.title="Nest_accfactory_ft"
 LABEL org.opencontainers.image.description="HomeKit integration for Nest devices based on HAP-NodeJS library"
-LABEL org.opencontainers.image.url="https://github.com/n0rt0nthec4t/Nest_accfactory"
-LABEL org.opencontainers.image.authors="n0rt0nthec4t@outlook.com"
+LABEL org.opencontainers.image.url="https://github.com/GoWithitRoger/Nest_accfactory_ft"
+LABEL org.opencontainers.image.authors="gypsum_rope0f@icloud.com"
 LABEL org.opencontainers.image.version="v0.1.2"
